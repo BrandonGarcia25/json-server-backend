@@ -1,5 +1,4 @@
-{
-  "coffees": [
+{"coffees": [
   {
     "_id": "6424335b59f9f6fdd657d2e1",
     "id": 1,
@@ -8,6 +7,8 @@
     "price": 12.99,
     "region": "Central America",
     "weight": 500,
+    "reviewer": "Brandon",
+    "review": "Darck Chocolate Flavored",
     "flavor_profile": [
       "Dark Chocolate",
       "Black Cherry"
@@ -20,58 +21,7 @@
     ],
     "roast_level": 3,
     "image_url": "https://iili.io/H8Y78Qt.webp"
-  },
-  {
-    "_id": "6424338559f9f6fdd657d2e2",
-    "id": 2,
-    "name": "Golden Sunrise",
-    "description": "A smooth and bright coffee with a citrusy kick. Sourced from the rolling hills of Africa.",
-    "price": 10.99,
-    "region": "Africa",
-    "weight": 500,
-    "flavor_profile": [
-      "Citrus"
-    ],
-    "grind_option": [
-      "Whole Bean",
-      "Cafetiere",
-      "Filter",
-      "Espresso"
-    ],
-    "roast_level": 2,
-    "image_url": "https://iili.io/H8Y7WEg.webp"
-  },
-  {
-    "_id": "6424338959f9f6fdd657d2e3",
-    "id": 3,
-    "name": "Rainforest Rhapsody",
-    "description": "An earthy and complex coffee with notes of toasted nuts and caramel. Sustainably grown in the rainforests of South America.",
-    "price": 14.99,
-    "region": "South America",
-    "weight": 500,
-    "flavor_profile": [
-      "Citrus"
-    ],
-    "grind_option": [
-      "Whole Bean",
-      "Cafetiere",
-      "Filter",
-      "Espresso"
-    ],
-    "roast_level": 2,
-    "image_url": "https://iili.io/H8Y7kTN.webp"
-  }
-],
-"reviews": [
-  {
-    "id": 1,
-    "brand_name": "Signature Blend",
-    "brand_review": "Too bitter for my refined taste.#NoGood"
-  },
-  {
-    "id": 2,
-    "title": "Golden Sunrise",
-    "description": "The best thing to wake up to every morning.#Blessed"
   }
 ]
 }
+  
