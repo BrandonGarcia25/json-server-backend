@@ -1,15 +1,15 @@
 {
-  "projects": [
+  "reviews": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
+      "brand_name": "Signature Blend",
+      "brand_review": "Too bitter for my refined taste.#NoGood",
       "userId": 1
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
+      "title": "Golden Sunrise",
+      "description": "The best thing to wake up to every morning.#Blessed",
       "userId": 1
     }
   ],
