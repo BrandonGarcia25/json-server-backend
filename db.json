@@ -9,17 +9,6 @@
     "weight": 500,
     "reviewer": "Brandon",
     "review": "Darck Chocolate Flavored",
-    "flavor_profile": [
-      "Dark Chocolate",
-      "Black Cherry"
-    ],
-    "grind_option": [
-      "Whole Bean",
-      "Cafetiere",
-      "Filter",
-      "Espresso"
-    ],
-    "roast_level": 3,
     "image_url": "https://iili.io/H8Y78Qt.webp"
   }
 ]
