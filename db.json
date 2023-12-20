@@ -7,6 +7,12 @@
     "region": "Puerto Rico",
     "image_url":  "https://iili.io/H8Y78Qt.webp"
     }
+  ],
+  "reviews":[
+    {"id":1,
+    "reviewer": "Brandon",
+    "comment": "Too bitter"
+  }
   ]
   }
 
